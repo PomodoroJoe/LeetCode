@@ -133,3 +133,7 @@ dmypy.json
 
 # file system
 *.DS_Store
+
+# Other Files
+*template*
+*.sh
